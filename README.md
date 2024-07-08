@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **system design, AI and LLM big data, latest UI frameworks**
 
-- 👯 I’m looking to collaborate on **NodeJs and react**
+- 👯 I’m looking to collaborate on **Jaba, NodeJs and react**
 
 - 💬 Ask me about **Java, Spring Boot, NodeJS, TypeScript, JavaScript, CI CD, Certifications, AWS, GCP**
 
