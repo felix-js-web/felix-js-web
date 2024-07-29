@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felix-js-web&label=Profile%20views&color=0e75b6&style=flat" alt="felix-js-web" /> </p>
 
-- 🔭 I’m currently working on **Github CoPilot speech**
+- 🔭 I had a speech at Java Meetup **Github CoPilot speech** https://www.youtube.com/watch?v=AVDm3JGmLKg&t=853s
 
 - 🌱 I’m currently learning **system design, AI and LLM big data, latest UI frameworks**
 
