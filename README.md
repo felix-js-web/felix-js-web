@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java, Spring Boot, NodeJS, TypeScript, JavaScript, CI CD, Certifications, AWS, GCP**
 
-- 📫 How to reach me **felix.java.web@gmail.com**
+- 📫 How to reach me **felix.dev.au@gmail.com**
 
 - ⚡ Fun fact **I swim all year round in the ocean, play basketball and enjoy food**
 
